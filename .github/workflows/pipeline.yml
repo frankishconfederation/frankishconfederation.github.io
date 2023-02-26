@@ -8,6 +8,3 @@ on:
 
 env:
   BOT_TOKEN: 'MTA3OTUxNDI3MDYxNTc1MjgyNQ.GDSVLv.vgPgUleFEpeotnkdt4Jbw5uBXm3yg0iqynRsxQ'
-
-- name: Print Bot_Token
-run: echo "Hello $BOT_TOKEN"
