@@ -6,5 +6,11 @@ on:
   pull_request:
     branches: [ "main" ]
 
+jobs:
+  build:
+    steps:
+      - name: Token Is?
+      run: echo "$BOT_TOKEN"
+
 env:
   BOT_TOKEN: 'MTA3OTUxNDI3MDYxNTc1MjgyNQ.GDSVLv.vgPgUleFEpeotnkdt4Jbw5uBXm3yg0iqynRsxQ'
