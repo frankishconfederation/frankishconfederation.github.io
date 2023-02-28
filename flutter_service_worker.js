@@ -3,15 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "667fc0486ee828b2a423924e68b578df",
+  "assets/AssetManifest.json": "45cea25af092f56d5dfc441458c3191d",
+"assets/assets/images/AdminPanel.png": "4cd7f9537b5d513221755f8364342bb1",
 "assets/assets/images/FrankiaFlag.png": "b8b8536a3aafa8e9f2284b6c8f8a5394",
 "assets/assets/images/FrankishEmpireCultures.png": "15ad010e2eca76e9f5271983053441ec",
 "assets/assets/images/FrankishEmpireNations.png": "837ce1829d255825c37a684022a6195b",
 "assets/assets/images/FrankishEmpireStates.png": "7a4c9364aa6c56a0b28745bb4f67573e",
 "assets/assets/images/Key.png": "daf09613be1b23b2541d78918419715b",
+"assets/assets/images/Webhook.png": "7b7ec500d3f79c733e0ee701fd60b1d6",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "20748cf9f8332f20b08a7554702ab08b",
+"assets/NOTICES": "6f9beb08e7949ebad5088d8ac3ba8590",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
@@ -23,9 +25,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "20d9062c98d20604261c10171befa521",
-"/": "20d9062c98d20604261c10171befa521",
-"main.dart.js": "9cddeb0d821b1189ac2ac4f66fca0587",
+"index.html": "c35fadb913ad6ca2aa4e0b17e763c0eb",
+"/": "c35fadb913ad6ca2aa4e0b17e763c0eb",
+"main.dart.js": "43b6f7337bd6d1f58b77f06eed30fffe",
 "manifest.json": "719d588351d9e8a35ebd21a9a0a5b749",
 "version.json": "cd5d9ed728f53b951dae5152e21427d6"
 };
